@@ -17,7 +17,7 @@ Tujuan dari proyek ini adalah untuk menganalisis kumpulan data tentang gaji ilmu
 
 ## Dataset
 
-Kumpulan data yang digunakan dalam proyek ini adalah **ds_salaries.csv**, yang berisi informasi tentang jabatan, tingkat pengalaman, lokasi kerja, dan gaji untuk peran ilmu data.
+Kumpulan data yang digunakan dalam proyek ini adalah 'ds_salaries.csv', yang berisi informasi tentang jabatan, tingkat pengalaman, lokasi kerja, dan gaji untuk peran ilmu data.
 
 
 ## Cara Menggunakan

@@ -12,13 +12,10 @@ Tujuan dari proyek ini adalah untuk menganalisis kumpulan data tentang gaji ilmu
 - **Exploratory Data Analysis (EDA)**:
   - Menganalisis distribusi gaji.
   - Mengidentifikasi tren gaji berdasarkan jabatan, pengalaman, dan lokasi.
-  - Memvisualisasikan hubungan antara gaji dan variabel lainnya.
-
 
 ## Dataset
 
 Kumpulan data yang digunakan dalam proyek ini adalah *ds_salaries.csv*, yang berisi informasi tentang jabatan, tingkat pengalaman, lokasi kerja, dan gaji untuk peran ilmu data.
-
 
 ## Cara Menggunakan
 

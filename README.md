@@ -8,7 +8,7 @@ Tujuan dari proyek ini adalah untuk menganalisis kumpulan data tentang gaji ilmu
 
 ## Analisis Utama:
 
-- **Data Cleaning:**: Menangani nilai null dan entri duplikat.
+- **Data Cleaning:** Menangani nilai null dan entri duplikat.
 - **Exploratory Data Analysis (EDA)**:
   - Menganalisis distribusi gaji.
   - Mengidentifikasi tren gaji berdasarkan jabatan, pengalaman, dan lokasi.
